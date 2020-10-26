@@ -1,0 +1,2 @@
+.App{justify-content:center;align-items:center;flex-direction:column;font-family:Arial,Helvetica,sans-serif}.App,.App__listItem{display:flex;padding:15px}.App__listItem{justify-content:space-between;width:800px;margin:10px;border:1px solid #000;border-radius:8px;font-size:16px;background-color:#f6f4fc}.App__done{color:green;font-weight:700}.App__not-done{color:red;font-weight:700}.App__user-name{padding:5px 0}
+/*# sourceMappingURL=main.393c2cb1.chunk.css.map */
